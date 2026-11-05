@@ -1,7 +1,7 @@
 # Cybersecurity Risk & Compliance Assessment: ShopPulse Retail Solutions Inc.
 
 > **Project Type:** Simulated Junior GRC Analyst Portfolio Project  
-> **Author:** Pooja Dheeraj Sindhu
+> **Author:** Pooja Dheeraj Sindhu 
 > **Frameworks:** ISO/IEC 27001:2022 | NIST Cybersecurity Framework (CSF) v2.0 | ISO 31000 / NIST SP 800-30 Rev. 1  
 
 ---
